@@ -8,7 +8,8 @@ div{
     margin: 0 180px;
     text-align: center;
     font-family: Tahoma;
-    border-bottom:1px solid #0d0d0d;
+    border-bottom:1px solid #cecaca;
+    background-color: #0d0d0d;
     
 }
 
